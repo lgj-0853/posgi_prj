@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Posgi_prj
+Bundle-SymbolicName: posgi_prj
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.swt,
+ org.eclipse.jface
+Automatic-Module-Name: posgi.prj
+Bundle-RequiredExecutionEnvironment: JavaSE-21
